@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e415e603-1a2c-4161-bd3e-f8884751eb77" name="Changes" comment="linh commit code test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="hai2408" />
+        <entry key="$PROJECT_DIR$" value="Linh" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,7 +66,7 @@
       <workItem from="1665914540708" duration="1649000" />
       <workItem from="1666260921033" duration="694000" />
       <workItem from="1666520757258" duration="1173000" />
-      <workItem from="1666531238141" duration="908000" />
+      <workItem from="1666531238141" duration="2057000" />
     </task>
     <task id="LOCAL-00001" summary="demo git">
       <created>1665914787260</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665915577000</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="linh commit code test">
+      <created>1666532933400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666532933400</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
